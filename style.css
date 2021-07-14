@@ -1,0 +1,38 @@
+.h1 {
+    font-size:20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px brown;
+}
+.Heading_Div{
+    background-color: cornflowerblue;
+    float: none;
+    padding: 10px;
+    border-radius: 40px black;
+    color: darkblue;
+    box-shadow: 5px 5px 5px darkmagenta;
+    font-size:20px;
+}
+.Div2{
+    font-size:20px;
+}
+.result_para_tag {
+   box-shadow:5px 5px 5px red ; 
+   font-size: 20px;
+}
+.copyright_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: teal;
+    text-align: center;
+    line-height: 3;
+}
+canvas {
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px palevioletred;
+margin-top: 150px;
+
+}
